@@ -1,0 +1,5 @@
+[BFA LAUNCHER NEWS]
+- Welcome to the new update!
+- Added Anti-Ban System.
+- Fixed login issues.
+- Join our Discord for support.
