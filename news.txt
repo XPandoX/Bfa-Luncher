@@ -17,3 +17,15 @@
 ======
 [CTF NEWS]
 - Collect Points Added [beta]
+
+- Chi Gates Open With Auto Leveling.
+======
+[Selector NEWS]
+- Smart Skill Use Added.
+- Auto Attack Pales & Gates Fixed.
+======
+[Bone NEWS]
+- Fixed
+======
+[CTF NEWS]
+- Collect Points Added [beta]
