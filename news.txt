@@ -1,15 +1,23 @@
 [Bfa LAUNCHER NEWS]
 - Welcome to the new update!
 - Smart Update System!
+======
 [Auto Hunt NEWS]
 - Added New Anti-Ban System.
 - Multiple Attach Added.
 - Stake Attack By Main Acc.
 - Chi Gates Open With Auto Leveling.
+======
 [Selector NEWS]
 - Smart Skill Use Added.
-- Auto Attack Pales & Gates Fixed
+- Auto Attack Pales & Gates Fixed.
+======
 [Bone NEWS]
 - Fixed
+======
 [CTF NEWS]
 - Collect Points Added [beta]
+======
+======
+======
+======
