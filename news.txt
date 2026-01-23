@@ -1,3 +1,7 @@
 [Bfa LAUNCHER NEWS]
 - Welcome to the new update!
+- Smart Update System!
 - Added New Anti-Ban System.
+- Multiple Attach Added.
+- Stake Attack By Main Acc.
+- Chi Gates Open With Auto Leveling.
